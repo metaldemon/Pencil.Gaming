@@ -240,6 +240,7 @@ namespace Pencil.Gaming {
 		OpenGLForwardCompat,
 		OpenGLDebugContext,
 		OpenGLProfile,
+		Decorated = 0x00020005
 	}
 
 	public enum OpenGLAPI {
